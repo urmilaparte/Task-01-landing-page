@@ -28,6 +28,9 @@ Welcome to the Genius Landing Page  a clean, responsive, and modern landing page
 - Flexbox used to align logo and navigation links.
 - Color scheme uses contrasting tones (`white`, `yellow`) for branding.
 
+## screenshot 
+![Landing Page Screenshot](Task-01-landing-page/Screenshot 2025-08-04 214544.png)
+
 ### Hero Section
 - Full-screen height with background image.
 - Overlay darkens image for improved text readability.
